@@ -1,0 +1,3 @@
+br\com\casadocodigo\loja\config\AppWebConfigurations.class
+br\com\casadocodigo\loja\config\ServletSpringMVC.class
+br\com\casadocodigo\loja\controllers\HomeController.class
