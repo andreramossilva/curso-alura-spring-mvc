@@ -1,6 +1,7 @@
 br\com\casadocodigo\loja\config\AppWebConfigurations.class
 br\com\casadocodigo\loja\config\JPAConfiguration.class
 br\com\casadocodigo\loja\config\ServletSpringMVC.class
+br\com\casadocodigo\loja\validation\ProdutoValidation.class
 br\com\casadocodigo\loja\controllers\ProdutosController.class
 br\com\casadocodigo\loja\models\Preco.class
 br\com\casadocodigo\loja\models\TipoPreco.class
